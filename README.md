@@ -1,9 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Andia<br>
 
-🌱 I’m currently learning Docker and advanced python.
-
-🎯My goal is becoming a great DevOps Engineer.
+🌱 I’m currently learning advanced python.
 
 
 ## 🌐 Socials:
